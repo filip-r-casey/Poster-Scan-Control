@@ -1,19 +1,0 @@
-º[/opt/homebrew/bin/gallery-dl, --filter, "url~r'.*\.(jpg|jpeg|png)'", --range, :10, --dest, /var/folders/29/818nv1qj7z1c_zb46ggt489m0000gn/T/, https://www.instagram.com/d3artswestwood/]
-,Here is the standard output of the command:
-
-><image filter>:1: SyntaxWarning: invalid escape sequence '\.'
-><image filter>:1: SyntaxWarning: invalid escape sequence '\.'
-x# /var/folders/29/818nv1qj7z1c_zb46ggt489m0000gn/T/instagram/d3artswestwood/3486180672543644434_3486180656898825503.jpg
-x# /var/folders/29/818nv1qj7z1c_zb46ggt489m0000gn/T/instagram/d3artswestwood/3486180672543644434_3486180656890451425.jpg
-x# /var/folders/29/818nv1qj7z1c_zb46ggt489m0000gn/T/instagram/d3artswestwood/3486180672543644434_3486180656965809665.jpg
-x# /var/folders/29/818nv1qj7z1c_zb46ggt489m0000gn/T/instagram/d3artswestwood/3486180672543644434_3486180656680582916.jpg
-x# /var/folders/29/818nv1qj7z1c_zb46ggt489m0000gn/T/instagram/d3artswestwood/3486180672543644434_3486180656680743299.jpg
-x# /var/folders/29/818nv1qj7z1c_zb46ggt489m0000gn/T/instagram/d3artswestwood/3486180672543644434_3486180656680734369.jpg
-x# /var/folders/29/818nv1qj7z1c_zb46ggt489m0000gn/T/instagram/d3artswestwood/3486180672543644434_3486180656798048653.jpg
-x# /var/folders/29/818nv1qj7z1c_zb46ggt489m0000gn/T/instagram/d3artswestwood/3486180672543644434_3486180656680739701.jpg
-x# /var/folders/29/818nv1qj7z1c_zb46ggt489m0000gn/T/instagram/d3artswestwood/3486180672543644434_3486180656672225278.jpg
-Process exited with code: 0
-€[/opt/homebrew/bin/mogrify, -resize, 150x150!, /var/folders/29/818nv1qj7z1c_zb46ggt489m0000gn/T/instagram/d3artswestwood/*.jpg]
-,Here is the standard output of the command:
-
-Process exited with code: 0
